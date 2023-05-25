@@ -10,7 +10,7 @@ verse-7.txt
 verse-8.txt
 chorus-3.txt
 verse-9.txt
-Warm like fire
+verse-10.txt
 But when I open my eyes
 You're gone
 I'm a big, big girl
