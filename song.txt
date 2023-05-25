@@ -1,7 +1,7 @@
 chorus-1.txt
 verse-1.txt
 verse-2.txt
-It's so very cold outside
+verse-3.txt
 Like the way I'm feeling inside
 I'm a big, big girl
 In a big, big world
