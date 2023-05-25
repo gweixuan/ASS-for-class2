@@ -12,7 +12,7 @@ chorus-3.txt
 verse-9.txt
 verse-10.txt
 verse-11.txt
-You're gone
+verse-12.txt
 I'm a big, big girl
 In a big, big world
 It's not a big, big thing
