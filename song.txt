@@ -11,7 +11,7 @@ verse-8.txt
 chorus-3.txt
 verse-9.txt
 verse-10.txt
-But when I open my eyes
+verse-11.txt
 You're gone
 I'm a big, big girl
 In a big, big world
