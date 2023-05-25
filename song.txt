@@ -8,14 +8,7 @@ verse-5.txt
 verse-6.txt
 verse-7.txt
 verse-8.txt
-I'm a big, big girl
-In a big, big world
-It's not a big, big thing
-If you leave me
-But I do, do feel
-That I do, do will
-Miss you much
-Miss you much
+chorus-3.txt
 I have your arms around me
 Warm like fire
 But when I open my eyes
