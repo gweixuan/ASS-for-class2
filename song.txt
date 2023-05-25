@@ -6,7 +6,7 @@ verse-4.txt
 chorus-2.txt
 verse-5.txt
 verse-6.txt
-Why did it have to happen?
+verse-7.txt
 Why did it all have to end?
 I'm a big, big girl
 In a big, big world
