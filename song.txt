@@ -1,5 +1,5 @@
 chorus-1.txt
-I can see the first leaf falling
+verse-1.txt
 It's all yellow and nice
 It's so very cold outside
 Like the way I'm feeling inside
