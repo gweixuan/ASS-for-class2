@@ -7,7 +7,7 @@ chorus-2.txt
 verse-5.txt
 verse-6.txt
 verse-7.txt
-Why did it all have to end?
+verse-8.txt
 I'm a big, big girl
 In a big, big world
 It's not a big, big thing
