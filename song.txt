@@ -1,6 +1,6 @@
 chorus-1.txt
 verse-1.txt
-It's all yellow and nice
+verse-2.txt
 It's so very cold outside
 Like the way I'm feeling inside
 I'm a big, big girl
