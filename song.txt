@@ -5,7 +5,7 @@ verse-3.txt
 verse-4.txt
 chorus-2.txt
 verse-5.txt
-And tears are falling from my eyes
+verse-6.txt
 Why did it have to happen?
 Why did it all have to end?
 I'm a big, big girl
