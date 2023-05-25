@@ -2,7 +2,7 @@ chorus-1.txt
 verse-1.txt
 verse-2.txt
 verse-3.txt
-Like the way I'm feeling inside
+verse-4.txt
 I'm a big, big girl
 In a big, big world
 It's not a big, big thing
