@@ -4,7 +4,7 @@ verse-2.txt
 verse-3.txt
 verse-4.txt
 chorus-2.txt
-Outside, it's now raining
+verse-5.txt
 And tears are falling from my eyes
 Why did it have to happen?
 Why did it all have to end?
